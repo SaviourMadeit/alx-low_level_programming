@@ -1,0 +1,8 @@
+    1  ls
+    2  cd alx-low_level_programming
+    3  ls
+    4  mkdir 0x03-debugging && cd 0x03-debugging
+    5  ls
+    6  pwd
+    7  ls
+    8  history >> history.txt
