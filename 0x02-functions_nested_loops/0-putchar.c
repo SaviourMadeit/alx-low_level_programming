@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 /**
  * main - prints Holberton
  *
@@ -12,7 +11,7 @@ int main(void)
 
 	while (c[i] != '\0')
 	{
-		_putchar(c[i]);
+		putchar(c[i]);
 		i++;
 	}
 	_putchar('\n');
