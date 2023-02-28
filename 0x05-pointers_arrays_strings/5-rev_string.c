@@ -21,7 +21,4 @@ void rev_string(char *s)
 		s[a] = x;
 	}
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+
